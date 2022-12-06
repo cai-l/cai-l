@@ -5,9 +5,9 @@
 # 公众号appSecret
 "app_secret": "d0e22ce9bf358109ecc56f0ef8692b35",
 # 模板消息id
-"template_id": "rfg0pb9zFcx15kKB_8soj4YPDEA-Ft46QABodk8Vk1U",
+"template_id": "Q4g5I8R6Ig7MNtJJHuqLQ-aNLlRGXSwv290cF_MiZtk",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["d0e22ce9bf358109ecc56f0ef8692b35"],
+"user": ["okyFw57CYyzHKOAZm9_t5bD_qY8c"],
 
 # 信息配置
 # 所在省份
